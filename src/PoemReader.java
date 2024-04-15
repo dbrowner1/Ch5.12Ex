@@ -1,3 +1,9 @@
+/**Class: PoemReader
+ * @author D Browner
+ * @version 1.6
+ * Course: ITEC 2140 Spring 2023
+ * Written: Apr 3, 2024
+ */
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
